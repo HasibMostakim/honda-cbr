@@ -1,0 +1,25 @@
+.my-bg-primary{
+ background-color: #264653;
+}
+.my-btn-tomato{
+ background-color:#e76f51;
+color: white;
+ height: 44px;
+ width: 168px;
+ border-radius: 8px;
+ padding-bottom: 2px;
+ border: none;
+}
+.tomato-color{
+ color: #e76f51;
+}
+.bg-tomato-color{
+background-color: #e76f51;
+
+}
+.filter{
+ filter: grayscale(1);
+}
+.pink{
+ color: #2b0b1b;
+}
